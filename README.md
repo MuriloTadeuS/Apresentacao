@@ -1,1 +1,44 @@
-# README.md-
+# Olá! Eu sou o Murilo!
+
+
+
+### Quem sou eu?
+
+Sou um estudante da universidade Cruzeiro do sul, estou cursando Analise e Desenvolvimento de Sistemas, tenho bastante interesse em desenvolvimento front-end, web e design. Um dos meus fortes é ter uma mente criativa e aberta
+
+### Disciplinas
+
+Modelagem de Banco de Dados;
+
+Design Profissional;
+
+Algoritmos e Pensamento Computacional;
+
+Desenvolvimento Front-End Para Web;
+
+Interface e Jornada do Usuário;
+
+Engenharia de Prompt e Aplicações em Ia;
+
+Programação de Computadores;
+
+Prototipagem e Sistemas Computacionais;
+
+
+
+### Projetos em Destaque
+
+*  [FlowSound](https://www.figma.com/design/QXc7HzTe4fL78acpv3SM1j/FlowSound?node-id=0-1&t=32rMABo6Cobqoiuh-1) - Um projeto desenvolvido em grupo feito no Figma, em que o objetivo era criar um app com duas versões, funcional e disfuncional, também foi desenvolvido uma versão funcional para PC.
+
+
+### Como me encontrar
+
+[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://linkedin.com/in/seuperfil)
+
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/seunumerodecelular)](https://wa.me/seunumerodecelular)
+
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/seuperfil)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seuperfil)](https://instagram.com/seuperfil)
